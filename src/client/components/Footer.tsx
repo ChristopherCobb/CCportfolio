@@ -15,7 +15,7 @@ const Footer = () => {
 				onClick={() => {
 					setMeetToggle(!meetToggle);
 				}}>
-				Meet Christopher
+				meet christopher
 			</p>
 			<a href='mailto:cbcobb4@gmail.com'>
 				<i className='fas fa-envelope'></i>

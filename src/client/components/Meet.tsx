@@ -6,7 +6,7 @@ const Meet = () => {
     <div className="meetcontent">
       <img
         className="meetimage"
-        src="https://i.imgur.com/OPcDUtm.jpg"
+        src="https://i.imgur.com/laAGjHj.jpg"
         alt="christopher's headshot"
       />
       <h6 className="descriptions">

@@ -24,14 +24,15 @@ function App() {
           </h1>
         </div>
         <div className="titles">
+          
           <p
             className="menu"
             onClick={() => {
               setDeveloperToggle(!developerToggle);
               // setCreativeToggle(false);
             }}
-          >
-            projects &nbsp;
+          > <i className="fa fa-space-shuttle"></i>
+             {" "}projects &nbsp;
           </p>
           {/* <p
 						className='menu'

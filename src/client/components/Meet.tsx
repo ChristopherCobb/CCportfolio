@@ -33,7 +33,7 @@ const Meet = () => {
         <p className="notbold">
           When I'm not coding, you'll likely find me chasing my 3 year old
           daughter around, scoring over par on the golf course, or watching The Office
-          with my wife.
+          with my smokin' hot wife.
         </p>
         <br />
         <p className="bold">

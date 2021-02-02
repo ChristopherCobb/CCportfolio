@@ -19,7 +19,7 @@ const Developer = () => {
             development progress throughout their bootcamp experience. Innovate
             Birmingham Administrators will have the ability to offer feedback
             and track students’ progress throughout the course. Front-end:
-            ReactJS, TypeScript, Bootstrap, Sass, npm Back-end: node.js,
+            React, TypeScript, Bootstrap, Sass, npm Back-end: node.js,
             Express.js, mySQL
             <br />
             <br />
@@ -40,21 +40,19 @@ const Developer = () => {
             </a>
           </div>
         </div>
-        {/* <div className="blog">
-          <a href="link">
-            <h2 className="projecttitles">Personal Blog</h2>
-          </a>
+        <div className="chirp">
+            <h2 className="projecttitles">Chirpr App</h2>
           <p className="projectdesc">
-            A full stack personal blog site. Developed using Typescript, React,
-            node.js, ExpressJS, mySQL.
+            A full stack Twitter clone. Developed using Typescript, React, Bootstrap
+            node.js, Express.js and mySQL.
             <br />
             <br />
           </p>
-          <img className="images" src="link" alt="thumbnail" />
-          <a href="link">
+          <img className="images" src="https://i.imgur.com/rNVUa8E.png" alt="thumbnail" />
+          <a href="https://github.com/ChristopherCobb/FS-Chirpr">
             <p className="linksite">&nbsp;code</p>
           </a>
-        </div> */}
+        </div>
       </div>
     </div>
   );

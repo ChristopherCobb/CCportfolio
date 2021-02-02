@@ -11,7 +11,7 @@ const Meet = () => {
       />
       <h6 className="descriptions">
         <a href="">
-          <h6 className="resume">Resume Link Soon</h6>
+          <h6 className="resume">Resume Link Soon!</h6>
         </a>
         <br />
         <p className="bolder">

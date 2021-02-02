@@ -6,12 +6,12 @@
 //   background-color: #028b9d;
 // }
 
-// * {
-//   /* border: 1px solid red; */
-//   margin: 0;
-//   padding: 0;
-//   box-sizing: border-box;
-// }
+* {
+  /* border: 1px solid red; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 .App {
   background-image: url('/assets/space.jpg');
@@ -38,11 +38,6 @@
   padding: 10px;
   cursor: pointer;
 }
-
-
-// .h2 {
-//   font-size:inherit;
-// }
 
 
 a {
@@ -512,7 +507,7 @@ a:-webkit-any-link {
 
   .menu {
     font-size: 6vh;
-    margin-top: 75%;
+    margin-top: 20%;
   }
 
   .pagetitles {
@@ -574,7 +569,7 @@ a:-webkit-any-link {
   }
 
   .menu {
-    margin-top: 70%;
+    margin-top: 20%;
   }
 
   .meetfooter {
@@ -619,7 +614,7 @@ a:-webkit-any-link {
   }
 
   .menu {
-    margin-top: 55%;
+    margin-top: 20%;
   }
 
   .fa-envelope,

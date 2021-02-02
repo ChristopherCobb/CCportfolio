@@ -20,7 +20,7 @@ function App() {
               // setCreativeToggle(false);
             }}
           >
-            Christopher Cobb
+            christopher cobb | software developer
           </h1>
         </div>
         <div className="titles">
@@ -31,7 +31,7 @@ function App() {
               // setCreativeToggle(false);
             }}
           >
-            Software Developer&nbsp;
+            projects &nbsp;
           </p>
           {/* <p
 						className='menu'

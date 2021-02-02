@@ -35,7 +35,7 @@ const Developer = () => {
               <p className="linksite">site&nbsp;</p>
             </a>
             <p> | </p>
-            <a href="https://github.com/sage-productions/innovate-bham-candidate-portal">
+            <a href="https://github.com/ChristopherCobb/innovateBHM-student-portal">
               <p className="linksite">&nbsp;code</p>
             </a>
           </div>

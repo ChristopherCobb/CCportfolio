@@ -12,8 +12,8 @@ const Meet = () => {
         alt="christopher's headshot"
       />
       <h6 className="descriptions">
-        <a href="https://drive.google.com/file/d/1mahVWLWJhYzvnhymwsCzwbl-7A6xR-l9/view?usp=sharing">
-          <h6 className="resume">Resume</h6>
+        <a href="">
+          <h6 className="resume">Resume Link Soon</h6>
         </a>
         <br />
         Developer + more info  

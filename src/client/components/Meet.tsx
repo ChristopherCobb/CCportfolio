@@ -14,7 +14,7 @@ const Meet = () => {
           <h6 className="resume">Resume Link Soon!</h6>
         </a>
         <br />
-        <p className="bolder">
+        <p className="bold">
           I am a former Executive Chef turned Full Stack Web Developer. I am an ardent
           learner who loves to design and implement high quality apps and
           websites with exceptional user experience.
@@ -26,7 +26,7 @@ const Meet = () => {
         </p>{" "}
         <br />
         <p className="bold">
-          I have experience in <span className="boldspan">React, Typescript, JavaScript, JQuery, node.js,
+          I have experience in <span className="boldspan">React, Typescript, JavaScript, node.js,
           Express.js, AWS, Bootstrap, and mySQL.{" "}</span>
         </p>
         <br />
@@ -37,9 +37,11 @@ const Meet = () => {
         </p>
         <br />
         <p className="bold">
-          My name is Christopher, and I look forward to bringing your vision to
+          Again, my name is Christopher, and I look forward to bringing your vision to
           life.
         </p>
+        <br /> 
+        <p className="notbold">cbcobb4@gmail.com</p>
       </h6>
     </div>
   );

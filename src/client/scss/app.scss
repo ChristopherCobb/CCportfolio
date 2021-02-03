@@ -14,7 +14,7 @@
 }
 
 .App {
-  background-image: url('/assets/space.jpg');
+  background-image: url("/assets/space.jpg");
   position: fixed;
   height: 100%;
   width: 100%;
@@ -26,6 +26,11 @@
   -webkit-overflow-scrolling: touch;
 }
 
+.developer {
+  color: white;
+  font-size: 30px;
+  position: absolute;
+}
 
 .close {
   position: absolute;
@@ -38,7 +43,6 @@
   padding: 10px;
   cursor: pointer;
 }
-
 
 a {
   text-decoration: none !important;
@@ -61,9 +65,8 @@ a:-webkit-any-link {
   font-size: 5vh;
   padding-top: 4px;
   padding-bottom: 5px;
-  text-shadow: 2px 2px 4px #000000
-  
-  }
+  text-shadow: 2px 2px 4px #000000;
+}
 
 /* .h2 {
 	font-weight: 500;
@@ -75,7 +78,6 @@ a:-webkit-any-link {
   width: 100%;
   text-align: center;
   position: fixed;
-  
 }
 
 .titles :hover {
@@ -111,6 +113,7 @@ a:-webkit-any-link {
   color: white;
   text-shadow: 2px 2px 4px #000000;
   cursor: pointer;
+  position: absolute;
 }
 
 .menu:hover {
@@ -137,6 +140,14 @@ a:-webkit-any-link {
   }
 }
 
+.boldspan {
+  font-weight: bolder;
+  // color:rgb(88, 240, 243)
+  
+  // color:rgb(245, 133, 92)
+  color: deepskyblue;
+}
+
 .center {
   position: fixed;
   top: 15%;
@@ -155,14 +166,12 @@ a:-webkit-any-link {
   transition: all 1s;
   overflow: scroll;
   z-index: 100;
-  margin-bottom:20px;
+  margin-bottom: 20px;
 }
 
 .width1 {
   width: 100%;
 }
-
-
 
 .footer {
   display: flex;
@@ -179,7 +188,6 @@ a:-webkit-any-link {
   // margin-bottom: -100px;
   color: white;
   // cursor: pointer;
-  
 }
 
 .meetfooter,
@@ -190,7 +198,7 @@ a:-webkit-any-link {
   padding: 10px;
   font-weight: bold;
   font-size: 5vw;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .fa-envelope:before,
@@ -228,7 +236,7 @@ a:-webkit-any-link {
 }
 
 .bolder {
-  font-weight:bold
+  font-weight: bold;
 }
 
 .notbold {
@@ -283,7 +291,6 @@ a:-webkit-any-link {
   font-family: "Poppins", sans-serif;
   font-size: 3.5vh;
   font-weight: bold;
- 
 }
 
 .meetfooter:hover {
@@ -374,7 +381,8 @@ a:-webkit-any-link {
   width: 100vw;
   font-weight: bolder;
   padding-bottom: 20px;
-  color: #f7fa5c;
+  // color: rgb(83, 189, 231);
+  color: deepskyblue;
   /* text-shadow: 1px 1px #f3722c; */
 }
 
@@ -392,8 +400,8 @@ a:-webkit-any-link {
 } */
 
 .projectdesc {
-  display:flex;
-  align-items:center;
+  display: flex;
+  align-items: center;
   font-family: "Raleway", sans-serif;
   font-weight: bold;
   width: 100vw;
@@ -409,17 +417,17 @@ a:-webkit-any-link {
   padding-bottom: 35px;
   font-family: "Raleway", sans-serif;
   // font-weight: bold;
-  color: #f7fa5c;
+  color: deepskyblue;
   cursor: pointer;
   text-decoration: none;
 }
 
 /*added class to force correct color on site/code words. color changed when links were added*/
 .linksite {
-  color: #f7fa5c;
+  color: deepskyblue;
   text-decoration: none;
   font-size: 3.5vh;
-  font-weight:bold;
+  font-weight: bold;
   font-family: "Raleway", sans-serif;
 }
 
@@ -457,16 +465,16 @@ a:-webkit-any-link {
 }
 
 .resume {
-  color: #f7fa5c;
+  color: deepskyblue;
   text-align: center;
   font-size: 5vw;
-  text-decoration:none;
-  border:0!important;
+  text-decoration: none;
+  border: 0 !important;
 }
 
 .resume:hover {
   animation: bounce 1s;
-  text-decoration:none
+  text-decoration: none;
 }
 
 @keyframes bounce {
@@ -509,7 +517,7 @@ a:-webkit-any-link {
 
   .menu {
     font-size: 6vh;
-    margin-top: 20%;
+    margin-top: 40%;
   }
 
   .pagetitles {
@@ -522,7 +530,7 @@ a:-webkit-any-link {
   }
 
   .projecttitles {
-    padding-top: 5%;
+    // padding-top: 5%;
     font-size: 5vh;
   }
 
@@ -571,7 +579,7 @@ a:-webkit-any-link {
   }
 
   .menu {
-    margin-top: 20%;
+    margin-top: 40%;
   }
 
   .meetfooter {
@@ -616,7 +624,7 @@ a:-webkit-any-link {
   }
 
   .menu {
-    margin-top: 20%;
+    margin-top: 40%;
   }
 
   .fa-envelope,

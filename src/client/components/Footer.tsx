@@ -11,7 +11,7 @@ const Footer = () => {
 	return (
 		<div className='footer'>
 			<p
-				className='btn btn-lg btn-outline-light meetfooter'
+				className='btn btn-outline-light meetfooter'
 				onClick={() => {
 					setMeetToggle(!meetToggle);
 				}}>

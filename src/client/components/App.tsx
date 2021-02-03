@@ -20,10 +20,11 @@ function App() {
               // setCreativeToggle(false);
             }}
           >
-            christopher cobb | software developer
+            christopher cobb
           </h1>
         </div>
         <div className="titles">
+          <p className="developer"> full stack <span className="boldspan">web developer</span> </p>
           
           <p
             className="menu"

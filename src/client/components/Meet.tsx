@@ -15,7 +15,7 @@ const Meet = () => {
         </a>
         <br />
         <p className="bolder">
-          I am a former chef turned full stack web developer. I am an ardent
+          I am a former Executive Chef turned Full Stack Web Developer. I am an ardent
           learner who loves to design and implement high quality apps and
           websites with exceptional user experience.
         </p>
@@ -26,14 +26,14 @@ const Meet = () => {
         </p>{" "}
         <br />
         <p className="bold">
-          I have experience in React, Typescript, JavaScript, JQuery, node.js,
-          Express.js, AWS, Bootstrap, and mySQL.{" "}
+          I have experience in <span className="boldspan">React, Typescript, JavaScript, JQuery, node.js,
+          Express.js, AWS, Bootstrap, and mySQL.{" "}</span>
         </p>
         <br />
         <p className="notbold">
           When I'm not coding, you'll likely find me chasing my 3 year old
           daughter around, scoring over par on the golf course, or watching The Office
-          with my smokin' hot wife.
+          with my wife.
         </p>
         <br />
         <p className="bold">

@@ -35,7 +35,7 @@ const Developer = () => {
           <img
             className="images"
             style={{ margin: "10px" }}
-            src="https://i.imgur.com/sfWKqu2.png"
+            src="https://i.imgur.com/kdtqfo9m.png"
             alt="thumbnail"
           />
           <img
@@ -75,13 +75,13 @@ const Developer = () => {
           <img
             className="images"
             style={{ margin: "10px" }}
-            src="https://i.imgur.com/rNVUa8E.png"
+            src="https://i.imgur.com/VOorgCEm.png"
             alt="thumbnail"
           />
           <img
             className="images"
             style={{ margin: "10px" }}
-            src="https://i.imgur.com/Qktv63O.png"
+            src="https://i.imgur.com/wisKzVwm.png"
             alt="thumbnail"
           />
           <a
@@ -102,13 +102,13 @@ const Developer = () => {
           <img
             className="images"
             style={{ margin: "10px" }}
-            src="https://i.imgur.com/LnL3fPp.png"
+            src="https://i.imgur.com/g8vPUj2m.png"
             alt="thumbnail"
           />
           <img
             className="images"
             style={{ margin: "10px" }}
-            src="https://i.imgur.com/bNR3w9p.png"
+            src="https://i.imgur.com/h9P0qDXm.png"
             alt="thumbnail"
           />
 

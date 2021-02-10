@@ -25,31 +25,101 @@ const Developer = () => {
             <br />
             <br></br>
           </p>
+
           <img
             className="images"
+            style={{ margin: "10px" }}
+            src="https://i.makeagif.com/media/2-10-2021/yqHEzA.gif"
+            alt="thumbnail"
+          />
+          <img
+            className="images"
+            style={{ margin: "10px" }}
             src="https://i.imgur.com/sfWKqu2.png"
             alt="thumbnail"
           />
+          <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.makeagif.com/media/2-10-2021/CUwcAN.gif"
+            alt="thumbnail"
+          />
+          {/* <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.imgur.com/7IBnSEd.png"
+            alt="thumbnail"
+          /> */}
           <div className="sitelinks">
             <a href="https://quiet-basin-68498.herokuapp.com/" target="_blank">
               <p className="linksite">site&nbsp;</p>
             </a>
             <p> | </p>
-            <a href="https://github.com/ChristopherCobb/innovateBHM-student-portal" target="_blank">
+            <a
+              href="https://github.com/ChristopherCobb/innovateBHM-student-portal"
+              target="_blank"
+            >
               <p className="linksite">&nbsp;code</p>
             </a>
           </div>
         </div>
+
         <div className="chirp">
-            <h2 className="projecttitles">Chirpr App</h2>
+          <h2 className="projecttitles">Chirpr App</h2>
           <p className="projectdesc">
-            A full stack Twitter clone. Developed using Typescript, React, Bootstrap
-            node.js, Express.js and mySQL.
+            A full stack Twitter clone. Developed using Typescript, React,
+            Bootstrap node.js, Express.js and mySQL.
             <br />
             <br />
           </p>
-          <img className="images" src="https://i.imgur.com/rNVUa8E.png" alt="thumbnail" />
-          <a href="https://github.com/ChristopherCobb/FS-Chirpr" target="_blank">
+          <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.imgur.com/rNVUa8E.png"
+            alt="thumbnail"
+          />
+          <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.imgur.com/Qktv63O.png"
+            alt="thumbnail"
+          />
+          <a
+            href="https://github.com/ChristopherCobb/FS-Chirpr"
+            target="_blank"
+          >
+            <p className="linksite">&nbsp;code</p>
+          </a>
+        </div>
+        <div className="blog">
+          <h2 className="projecttitles">My Personal Blog</h2>
+          <p className="projectdesc">
+            A full stack personal blog app. Developed using Typescript, React,
+            Bootstrap node.js, Express.js and mySQL.
+            <br />
+            <br />
+          </p>
+          <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.imgur.com/LnL3fPp.png"
+            alt="thumbnail"
+          />
+          <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.imgur.com/bNR3w9p.png"
+            alt="thumbnail"
+          />
+
+          {/* <img
+            className="images"
+            style={{ margin: "10px" }}
+            src="https://i.imgur.com/BMPyFp8.png"
+            alt="thumbnail"
+          /> */}
+
+          <a href="https://github.com/ChristopherCobb/FS-Blogs" target="_blank">
             <p className="linksite">&nbsp;code</p>
           </a>
         </div>

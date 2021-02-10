@@ -30,7 +30,7 @@ const Meet = () => {
           I am experienced in{" "}
           <span className="boldspan">
             React, Typescript, JavaScript, node.js, Express.js, GatsyJS,
-            Next.js, AWS, HTML/CSS/Sass, Bootstrap, and mySQL.{" "}
+            AWS, HTML/CSS/Sass, Bootstrap, and mySQL.{" "}
           </span>
         </p>
         <br />
